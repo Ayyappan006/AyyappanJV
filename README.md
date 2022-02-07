@@ -1,16 +1,16 @@
 # AyyappanJV
 
-Title Of Project : Checking The My Sentences
+Title Of Project : Checking The Lunch
 
 File Name :
 
-index.html
+my_project.html
 
-app.js
+my_project.js
 
 Output Of the Project :  https://ayyappan006.github.io/AyyappanJV/
 
-![image](https://user-images.githubusercontent.com/99162903/152744734-ef17de61-630f-4a2c-a540-15e7e9a362cc.png)
+
 
 
 
